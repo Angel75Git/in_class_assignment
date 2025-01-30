@@ -31,4 +31,8 @@ while (count <= 10) {
     console.log("Count is: ", count);
     count += 2;
 }
-
+//Task 5
+function calculateSquare(num){
+    return num * num
+}
+console.log(calculateSquare(4))
