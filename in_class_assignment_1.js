@@ -24,3 +24,11 @@ if (score => 60) {
 for(let i = 10; i >= 1; i--) {
     console.log("Iteration: ", i);
 }
+
+//Task 4
+let count = 2;
+while (count <= 10) {
+    console.log("Count is: ", count);
+    count += 2;
+}
+
